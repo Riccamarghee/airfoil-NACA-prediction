@@ -5,9 +5,10 @@ This repository contains the code for predicting the NACA 4-digit code of airfoi
 
 If you use this code in your work, please cite the associated paper and link to this repository:
 
-[https://github.com/tuo-username/airfoils-NACA-prediction](https://github.com/tuo-username/airfoils-NACA-prediction)
+
 
 
 ## Data
-The CFD data used in this study are available on Zenodo at the following DOI: https://doi.org/10.5281/zenodo.4638071
+The CFD data used in this study are available on Zenodo at the following DOI: 
+
 
